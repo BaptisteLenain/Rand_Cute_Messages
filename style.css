@@ -17,7 +17,7 @@
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    margin-top: 10px;
+    margin-top: 20px;
   }
   
   h1 {
@@ -46,3 +46,9 @@
     background-color: #2980b9;
   }
   
+  #Bapt {
+    text-align: center;
+    margin-top: 20px;
+    color: #3498db;
+    font-size: 18px;
+  }
